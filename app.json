@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn2600hztest1",
+    "slug": "rn2600hztest1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn2600hztest1"
+}
